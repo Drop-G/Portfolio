@@ -13,6 +13,7 @@
     "react-google-maps": "^9.4.5",
     "react-scripts": "1.0.17",
     "reactstrap": "^8.7.1",
+    "yallist": "^4.0.0",
     "yargs": "^17.5.1",
     "yargs-parser": "^21.0.1"
   },
