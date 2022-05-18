@@ -3,7 +3,7 @@
     "name":"Ted Peters",
     "description":"Software Developer",
     "image":"profilepic.jpg",
-    "bio":"Full Stack Developer with demonstrated experience across the Software Development Lifecycle focused in Javascript. I love the feeling of overcoming a difficult challenge in the development process and taking applications from the development stage to production. In my free time I love to cook, hike, skate, listen to reggae, paint, and swim laps.",
+    "bio":"Full Stack Developer with demonstrated experience across the Software Development Lifecycle focused in Javascript. I love the feeling of overcoming a difficult challenge in the development process and taking applications for the dev stage to prod. In my free time I love to cook, hike, skate, listen to reggae, paint, and swim laps at the local YMCA.",
     "contactmessage":"If you are interested in contacting me for anything, please email me directly. If you prefer to talk by phone just include your info in your message so I can get back to you as soon as possible.",
     "email": "droppindbs@gmail.com",
     "phone": "",
@@ -36,6 +36,24 @@
         "school":"University of Texas at Austin",
         "degree":"Full Stack Web Development Bootcamp",
         "graduated":"2020-2020",
+        "description":""
+      },
+      {
+        "school":"Portland Community College",
+        "degree":"Computer Science",
+        "graduated":"2019-2019",
+        "description":""
+      },
+      {
+        "school":"Southern Maine Community College",
+        "degree":"Biotechnology",
+        "graduated":"2014-2015",
+        "description":""
+      },
+      {
+        "school":"Gateway Community College",
+        "degree":"liberal Arts and Sciences",
+        "graduated":"2010-2012",
         "description":""
       }
     ],
